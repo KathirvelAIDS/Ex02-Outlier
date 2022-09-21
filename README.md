@@ -67,12 +67,12 @@ df2 = df[(z<3)]
 df2
 sns.boxplot(x="price_per_sqft",data=df2)
 
+~~~
 
 
 
 
 ~~~
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -105,10 +105,9 @@ df2 =df[((df['height']>=ll)&(df['height']<=ul))]
 df2
 sns.boxplot(x='height',data=df2)
 
-
-
-
 ~~~
+
+
 
 
 
