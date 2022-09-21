@@ -33,9 +33,10 @@ Plot the datas using Box Plot
 
 
 PROGRAM:
+~~~
 NAME:KATHIRVEL.A
 REN.NO:212221230047
-
+~~~
 
 
 
@@ -181,7 +182,8 @@ Height after performing IQR
 
 
 
-RESULT
+RESULT:
+
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods
 
 
